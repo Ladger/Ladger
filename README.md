@@ -1,5 +1,5 @@
 - Hello everyone, I am Ladger! 👋
-- I am really into a game development and designing. 👀
+- I am really into game development and designing. 👀
 - I’m currently learning "Python" and "C#" 👨‍💻
 - For reaching me --->
 Mail: berkozc.81@gmail.com 📩
